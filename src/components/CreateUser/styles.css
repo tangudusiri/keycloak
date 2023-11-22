@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    display: flex;
+     justify-content: center; 
+    align-items: center; 
+}
+.create-page{
+    font-size: 70px;
+    font-weight: bold;
+}
